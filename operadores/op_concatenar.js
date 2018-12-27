@@ -1,0 +1,1 @@
+console.log("Minha idade é " + "25" + "!")
